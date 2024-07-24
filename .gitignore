@@ -396,3 +396,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# vscode config
+.vscode
+
+# jenkins
+agent
+.jenkins
+
+# docker
+DockerHub/
+
+# build folder
+build
